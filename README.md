@@ -7,10 +7,10 @@ To use the hunt you have to be a member which means you have to sign up to it. T
 # Aim
 The goal of this project is to help people find work. Though not just a country based project or solution, unemployment is one of Africa (Zambia's) hardship. Job opportunity is scarce even for college graduates. So how and where does the hunt come in? Simple. With or without qualifications the hunt searches for valid openings both locally and internationally according to the information filled on your profile.
 # Credits
-My project is made throgh the various applications and websites that are:
-Bootstrap
-www.w3schools
-visual studio
-unsplash (photos)
+My project is made through the various applications and websites that are:
+Bootstrap,
+www.w3schools,
+visual studio and
+unsplash (photos).
 Using the visual studio for my html and css codes and Bootstrap as well as the www.w3schools for coding guidance i have sucessfully been able to make majority of my frontend.
 
