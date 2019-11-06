@@ -17,5 +17,6 @@ Using the visual studio for my html and css codes and Bootstrap as well as the w
 # Features
 1. Sign up page (requires personal and educational information)
 2. Home page which is also the information page
-3.
+3. profile page
+4. message page (inbox)
 
