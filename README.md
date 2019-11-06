@@ -14,4 +14,9 @@ www.w3schools,
 visual studio and
 unsplash (photos).
 Using the visual studio for my html and css codes and Bootstrap as well as the www.w3schools for coding guidance i have sucessfully been able to make majority of my frontend.
+# Features
+1. home page also the information page
+2. Profile
+3. Messages
+4. sign up pages (3 pages with categorized questions) 
 
