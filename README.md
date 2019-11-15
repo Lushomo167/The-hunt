@@ -1,4 +1,5 @@
 # The-hunt
+![image](https://user-images.githubusercontent.com/56962721/68918174-1ebfae00-07a8-11ea-8797-14f62488139b.png)
 
 A quick and easy service platform that makes finding employment a breeze
 The hunt is an easy online website that is meant to help a user find available job openings online according to their qualification.
